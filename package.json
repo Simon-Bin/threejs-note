@@ -6,6 +6,6 @@
   "author": "lvbin <2632003786@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   }
 }
